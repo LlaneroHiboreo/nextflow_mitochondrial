@@ -1,0 +1,4 @@
+sample,lane,cram,crai,sex,phenotype,paternal_id,maternal_id,case_id
+hugelymodelbat,1,/path/to/file.cram,/path/to/file.crai,1,2,father,mother,family1
+mother,2,/path/to/file.cram/path/to/file.cram,/path/to/file.cram.crai,1,2,0,0,family1
+father,3,/path/to/file.cram,/path/to/file.cram.crai,1,1,0,0,family1
