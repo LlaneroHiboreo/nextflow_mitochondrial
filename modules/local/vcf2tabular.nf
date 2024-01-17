@@ -1,5 +1,5 @@
 process VCF2TABULAR{
-    container "/scratch_isilon/groups/dat/apps/MVPGermline/dev/Containers/vcf2tabular_1.0.1.sif"
+    container "< container >"
 
     input:
     tuple val(meta), path(vcf)
