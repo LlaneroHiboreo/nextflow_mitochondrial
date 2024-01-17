@@ -1,5 +1,5 @@
 process IGVREPORTS{
-    container "/scratch_isilon/groups/dat/jgaztelu/sifffs/igvreports.sif"
+    container "< container >"
 
     input:
     tuple val(meta), path(vcf)
